@@ -1,6 +1,8 @@
 master
 ------
 
+* `EmberCli::EmberController` now inherits from `ActionController::Base` instead
+  of `ApplicationController`. [#400]
 * Remove support for Ruby 2.1.x. [#400]
 * Enhance `rake ember:install` to fully reinstall if necessary. [#396]
 * `EmberCli::Deploy::File` serves assets with Rails' `static_cache_control`
