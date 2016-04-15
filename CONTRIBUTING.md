@@ -1,4 +1,4 @@
-# Report an Issue
+# Reporting an Issue
 
 When reporting an issue, please fill out the provided
 [GitHub issue template][template] to the best of your ability.
