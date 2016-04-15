@@ -1,26 +1,18 @@
-What operating system does the project run on?
-----------------------------------------------
+**What operating system does the project run on?**
 
-What is the [`rails`][rails] version?
--------------------------------------
+**What is the [`rails`][rails] version?**
 
-What is the [`ember-cli-rails`][gem] version (from `Gemfile`)?
---------------------------------------------------------------
+**What is the [`ember-cli-rails`][gem] version (from `Gemfile`)?**
 
-What is the [`ember-cli-rails-addon`][addon] version (from `package.json`)?
----------------------------------------------------------------------------
+**What is the [`ember-cli-rails-addon`][addon] version (from `package.json`)?**
 
-What are the contents of `config/initializers/ember.rb`?
---------------------------------------------------------
+**What are the contents of `config/initializers/ember.rb`?**
 
-Which are the contents of the Rails' view that renders the Ember application?
------------------------------------------------------------------------------
+**Which are the contents of the Rails' view that renders the Ember application?**
 
-How have are the EmberCLI-related routes defined?
--------------------------------------------------
+**How have are the EmberCLI-related routes defined?**
 
-How is the application deployed?
---------------------------------
+**How is the application deployed?**
 
 [rails]: https://github.com/rails/rails
 [gem]: https://github.com/thoughtbot/ember-cli-rails
