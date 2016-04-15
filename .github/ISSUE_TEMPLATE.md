@@ -1,4 +1,4 @@
-**What operating system does the project run on?**
+**Which operating system and version is the project developed on?**
 
 **What is the [`rails`][rails] version?**
 
