@@ -8,9 +8,9 @@
 
 **What are the contents of `config/initializers/ember.rb`?**
 
-**Which are the contents of the Rails' view that renders the Ember application?**
+**What are the contents of the Rails' view that renders the Ember application?**
 
-**How have are the EmberCLI-related routes defined?**
+**How are the EmberCLI-related routes defined?**
 
 **How is the application deployed?**
 
